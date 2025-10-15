@@ -1,0 +1,3 @@
+Address,APN,Time APN Added,Foreclosure Stage,NOD,NOD Date,NOS,NOS Date,Sale Date,Back to Beneficiary Date,Foreclosure Document Type,Foreclosure Recording Date,LIS,Evidence Files (local),Evidence Link 1,Evidence Link 2,Evidence Link 3,Evidence Link 4,Evidence Link 5
+"1234 Test St, Denver, CO",,,,,,,,,,,,,/Users/brass/Downloads/foreclosures/1234_Test_St_Denver_CO_noapn_1.pdf,"=HYPERLINK(""file:////Users/brass/Downloads/foreclosures/1234_Test_St_Denver_CO_noapn_1.pdf"",""PDF 1"")",,,,
+"5678 Sample Ave, Boulder, CO",,,,,,,,,,,,,/Users/brass/Downloads/foreclosures/5678_Sample_Ave_Boulder_CO_noapn_1.pdf,"=HYPERLINK(""file:////Users/brass/Downloads/foreclosures/5678_Sample_Ave_Boulder_CO_noapn_1.pdf"",""PDF 1"")",,,,

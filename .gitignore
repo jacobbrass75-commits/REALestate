@@ -1,0 +1,53 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+.Python
+*.so
+*.egg-info/
+.eggs/
+.build/
+.dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter/Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+retran_apn_*.log
+
+# Project specific
+tp_debug/
+debug_html/
+.titlepro_cache.json
+.retran_cache.json
+
+# Playwright caches
+~/Library/Caches/ms-playwright/
+.playwright/
+
+# Temp
+/tmp/
+*.tmp
+
+# Excel/CSV files (optional - uncomment if you don't want to track data files)
+# *.xlsx
+# *.csv
